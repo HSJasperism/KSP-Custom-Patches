@@ -1,0 +1,23 @@
+// KPBS
+PlanetaryBaseInc/ModSupport/Spaces/
+PlanetaryBaseInc/ModSupport/Parts/OSE Workshop/
+PlanetaryBaseInc/ModSupport/Parts/SurfaceExperimentPackage/
+PlanetaryBaseInc/ModSupport/Parts/Extraplanetary Launchpads/
+PlanetaryBaseInc/ModSupport/Parts/DeepFreeze/
+
+// USI
+000_USITools/Spaces/
+UmbraSpaceIndustries/LifeSupport/Spaces/
+UmbraSpaceIndustries/LifeSupport/Assets/Greenhouse.dds
+UmbraSpaceIndustries/LifeSupport/Assets/Greenhouse.mu
+UmbraSpaceIndustries/LifeSupport/Assets/Greenhouse_Glow.dds
+UmbraSpaceIndustries/LifeSupport/Assets/GreenhouseGlass.dds
+UmbraSpaceIndustries/LifeSupport/Assets/InlineGreenhouse.mu
+UmbraSpaceIndustries/LifeSupport/Assets/JumboGreenhouse.mu
+UmbraSpaceIndustries/LifeSupport/Assets/LgRecycler.mu
+UmbraSpaceIndustries/LifeSupport/Assets/MiniLab.png
+UmbraSpaceIndustries/LifeSupport/Assets/propsGeneric.dds
+UmbraSpaceIndustries/LifeSupport/Assets/Recycler.dds
+UmbraSpaceIndustries/LifeSupport/Assets/Recycler.mu
+UmbraSpaceIndustries/LifeSupport/Assets/SmCupola.mu
+UmbraSpaceIndustries/LifeSupport/Assets/ViewingCupola.mu
